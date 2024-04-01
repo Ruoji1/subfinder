@@ -10,8 +10,8 @@ import (
 	"strings"
 	"sync"
 
+	"github.com/Ruoji1/subfinder/v2/pkg/subscraping"
 	jsoniter "github.com/json-iterator/go"
-	"github.com/projectdiscovery/subfinder/v2/pkg/subscraping"
 	"github.com/tomnomnom/linkheader"
 )
 

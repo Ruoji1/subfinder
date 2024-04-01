@@ -14,7 +14,7 @@ import (
 	// postgres driver
 	_ "github.com/lib/pq"
 
-	"github.com/projectdiscovery/subfinder/v2/pkg/subscraping"
+	"github.com/Ruoji1/subfinder/v2/pkg/subscraping"
 	contextutil "github.com/projectdiscovery/utils/context"
 )
 
