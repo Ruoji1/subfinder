@@ -1,4 +1,4 @@
-module github.com/Ruoji1/subfinder/v2
+module github.com/Ruoji1/subfinder
 
 go 1.21
 
@@ -13,6 +13,7 @@ require (
 	github.com/projectdiscovery/gologger v1.1.12
 	github.com/projectdiscovery/ratelimit v0.0.34
 	github.com/projectdiscovery/retryablehttp-go v1.0.53
+	github.com/projectdiscovery/subfinder/v2 v2.6.6
 	github.com/projectdiscovery/utils v0.0.84
 	github.com/rs/xid v1.5.0
 	github.com/stretchr/testify v1.9.0
@@ -50,7 +51,6 @@ require (
 	github.com/gorilla/css v1.0.0 // indirect
 	github.com/klauspost/compress v1.16.7 // indirect
 	github.com/klauspost/pgzip v1.2.5 // indirect
-	github.com/kr/pretty v0.3.1 // indirect
 	github.com/lucasb-eyer/go-colorful v1.2.0 // indirect
 	github.com/lufia/plan9stats v0.0.0-20211012122336-39d0f177ccd0 // indirect
 	github.com/mattn/go-colorable v0.1.13 // indirect
